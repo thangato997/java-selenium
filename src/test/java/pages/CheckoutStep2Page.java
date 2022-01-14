@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 
 @Getter
 public class CheckoutStep2Page extends BasePage {
-	private final By btnFinish = By.cssSelector("a.btn_action.cart_button");
+	private final By btnFinish = By.cssSelector("button#finish");
 	
 	public CheckoutStep2Page(WebDriver driver, ExtentTest test) {
 		super(driver, test);
