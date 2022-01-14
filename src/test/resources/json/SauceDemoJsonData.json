@@ -1,0 +1,17 @@
+[
+	{
+		"account" : "standard_user",
+		"password" : "secret_sauce",
+		"productId" : "#item_4_img_link > img"
+	},
+	{
+		"account" : "problem_user",
+		"password" : "secret_sauce",
+		"productId" : "#item_0_img_link > img"
+	},
+	{
+		"account" : "performance_glitch_user",
+		"password" : "secret_sauce",
+		"productId" : "#item_1_img_link > img"
+	}
+]
